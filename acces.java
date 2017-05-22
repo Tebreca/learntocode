@@ -1,6 +1,6 @@
 public class acces{
 
   public static void acc(){
-  print.
+  print.main();
   }
 }
